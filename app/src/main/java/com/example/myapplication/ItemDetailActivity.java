@@ -17,6 +17,11 @@ import android.view.MenuItem;
  * in a {@link ItemListActivity}.
  */
 public class ItemDetailActivity extends AppCompatActivity {
+	
+	public class xyz{
+		
+		System.out.println("This is new modification");
+	}
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
